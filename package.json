@@ -1,0 +1,23 @@
+{
+  "name": "javascript-practice-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benshurts/javascript-practice-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benshurts/javascript-practice-templates/issues"
+  },
+  "homepage": "https://github.com/benshurts/javascript-practice-templates#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

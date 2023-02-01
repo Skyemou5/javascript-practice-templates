@@ -1,0 +1,80 @@
+{
+    "game-examples/guessing-game": [
+        {
+            "name": "guessing-game.html",
+            "url": "game-examples/guessing-game/guessing-game.html"
+        }
+    ],
+    "game-examples/tic-tac-toe": [
+        {
+            "name": "tic-tac-toe.html",
+            "url": "game-examples/tic-tac-toe/tic-tac-toe.html"
+        }
+    ],
+    "small-exercises/loops/sum-of-numbers": [
+        {
+            "name": "sum-of-numbers.html",
+            "url": "small-exercises/loops/sum-of-numbers/sum-of-numbers.html"
+        }
+    ],
+    "small-exercises/loops/multiplication-table": [
+        {
+            "name": "multiplication-table.html",
+            "url": "small-exercises/loops/multiplication-table/multiplication-table.html"
+        }
+    ],
+    "small-exercises/loops/counting-letters": [
+        {
+            "name": "counting-letters.html",
+            "url": "small-exercises/loops/counting-letters/counting-letters.html"
+        }
+    ],
+    "small-exercises/loops/reverse-an-array": [
+        {
+            "name": "reverse-an-array.html",
+            "url": "small-exercises/loops/reverse-an-array/reverse-an-array.html"
+        }
+    ],
+    "small-exercises/loops/find-max-value": [
+        {
+            "name": "find-max-value.html",
+            "url": "small-exercises/loops/find-max-value/find-max-value.html"
+        }
+    ],
+    "small-exercises/loops/factorial": [
+        {
+            "name": "factorial.html",
+            "url": "small-exercises/loops/factorial/factorial.html"
+        }
+    ],
+    "small-exercises/loops/prime-numbers": [
+        {
+            "name": "prime-numbers.html",
+            "url": "small-exercises/loops/prime-numbers/prime-numbers.html"
+        }
+    ],
+    "small-exercises/control-flow/fizzbuzz": [
+        {
+            "name": "fizzbuzz.html",
+            "url": "small-exercises/control-flow/fizzbuzz/fizzbuzz.html"
+        }
+    ],
+    "small-exercises/control-flow/rock-paper-scissors": [
+        {
+            "name": "rock-paper-scissors.html",
+            "url": "small-exercises/control-flow/rock-paper-scissors/rock-paper-scissors.html"
+        }
+    ],
+    "small-exercises/control-flow/grade-calculator/else-if": [
+        {
+            "name": "grade-calc-1.html",
+            "url": "small-exercises/control-flow/grade-calculator/else-if/grade-calc-1.html"
+        }
+    ],
+    "small-exercises/control-flow/grade-calculator/switch": [
+        {
+            "name": "grade-calc-2.html",
+            "url": "small-exercises/control-flow/grade-calculator/switch/grade-calc-2.html"
+        }
+    ]
+}
